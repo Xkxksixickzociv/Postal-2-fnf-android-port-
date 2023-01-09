@@ -1,0 +1,11 @@
+
+{
+	"directory": "weekbs",
+	"defaultZoom": 0.5,
+	"isPixelStage": false,
+
+	"boyfriend": [1600, 450],
+	"girlfriend": [1250, 450],
+	"opponent": [250, 600]
+
+}
