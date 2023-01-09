@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Playing with Scissors",
+			"dude",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"No Regerts",
+			"dude",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Goin' Postal",
+	"weekName": "Shovel Knight",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
