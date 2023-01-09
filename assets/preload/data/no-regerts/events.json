@@ -1,0 +1,3458 @@
+{
+	"song": {
+		"events": [
+			[
+				9600,
+				[
+					[
+						"VL1",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				76400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				76700,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"bf"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"protectbfver",
+						"dad"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"VL2",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				95600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				98600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				98800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				104800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				105200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				105400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				107000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				108400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				108600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				110200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				111600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				111800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				113200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				113400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				114800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				115000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				],
+				null,
+				"No Animation"
+			],
+			[
+				116600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				122300,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"bfuckindies",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Play Animation",
+						"dad",
+						"shoot"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				125600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				126600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				127000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				127600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				128600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				128800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				129200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				129400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				130000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				130200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				130400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				131000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				131800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				132400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				132600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				132800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				133600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				133800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				134000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				134200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				134800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				135200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				135400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				135800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				136400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				136600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				137000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				137200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				137400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				137600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				139000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				139800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				140600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				140800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				141200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				142900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				143800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				144400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				144800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				145200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				145400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				145600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				146000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				146800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				147300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				147600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				147800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				148200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				148400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				148600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				148900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				149000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				149200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				149400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				149600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				149700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				149800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				150200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				150400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				151600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				152800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				153200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				154800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				155200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				156400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				157200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				158200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				158300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				159200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				159500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				159800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				160800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				161600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				163000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				163600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				164400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				164500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				164600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				164700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				164800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				165800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				166000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				166200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				166600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				166700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				166800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				167800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				168100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				168400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				168600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				168800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				168900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				169000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				169200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				169400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				169600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				169800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				169900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Trigger BG Ghouls",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				170800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				171800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				172300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				172600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				173200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				173300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				173400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				173500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				173600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				174900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				175100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				175400,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"shootnprotect",
+						"1",
+						""
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				176100,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176200,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176300,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176400,
+				[
+					[
+						"shootnprotect",
+						"1",
+						""
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				176500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176600,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176700,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				176800,
+				[
+					[
+						"shootnprotect",
+						"1",
+						""
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"gf"
+					]
+				]
+			],
+			[
+				176900,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				177000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"protect",
+						"dad"
+					]
+				]
+			],
+			[
+				177200,
+				[
+					[
+						"Play Animation",
+						"shootout",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"ohshit",
+						"gf"
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"VL3",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				216000,
+				[
+					[
+						"TheFinale",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
