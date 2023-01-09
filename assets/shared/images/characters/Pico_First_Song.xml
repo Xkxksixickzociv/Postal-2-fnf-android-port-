@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico First Song.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dead pico instancia 10000" x="10" y="10" width="482" height="242"/>
+	<SubTexture name="PDMiss 10000" x="502" y="10" width="768" height="382" frameX="-10" frameY="-49" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10001" x="1280" y="10" width="545" height="431" frameX="-2" frameY="0" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10002" x="1280" y="10" width="545" height="431" frameX="-2" frameY="0" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10003" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10004" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10005" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10006" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10007" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10008" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10009" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10010" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10011" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10012" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10013" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10014" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10015" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10016" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10017" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10018" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10019" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10020" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10021" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10022" x="2394" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10023" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PDMiss 10024" x="1835" y="10" width="549" height="425" frameX="0" frameY="-6" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PicoDownNote 10000" x="502" y="10" width="768" height="382" frameX="-13" frameY="-9" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PicoDownNote 10001" x="502" y="10" width="768" height="382" frameX="-13" frameY="-9" frameWidth="778" frameHeight="431"/>
+	<SubTexture name="PicoDownNote 10002" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10003" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10004" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10005" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10006" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10007" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10008" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10009" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="PicoDownNote 10010" x="2953" y="10" width="548" height="392" frameX="0" frameY="0" frameWidth="781" frameHeight="392"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10000" x="3511" y="10" width="556" height="461" frameX="-26" frameY="-13" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10001" x="3511" y="10" width="556" height="461" frameX="-26" frameY="-13" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10002" x="10" y="481" width="566" height="469" frameX="-17" frameY="-6" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10003" x="10" y="481" width="566" height="469" frameX="-17" frameY="-6" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10004" x="586" y="481" width="576" height="468" frameX="-3" frameY="-7" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10005" x="1172" y="481" width="571" height="468" frameX="-3" frameY="-7" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10006" x="1753" y="481" width="572" height="475" frameX="-2" frameY="-1" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10007" x="2335" y="481" width="570" height="475" frameX="-2" frameY="-1" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10008" x="2915" y="481" width="572" height="476" frameX="0" frameY="0" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10009" x="2915" y="481" width="572" height="476" frameX="0" frameY="0" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10010" x="2915" y="481" width="572" height="476" frameX="0" frameY="0" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10011" x="2915" y="481" width="572" height="476" frameX="0" frameY="0" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10012" x="2915" y="481" width="572" height="476" frameX="0" frameY="0" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="Pico Idle Dance V2 instancia 10013" x="2915" y="481" width="572" height="476" frameX="0" frameY="0" frameWidth="583" frameHeight="476"/>
+	<SubTexture name="PLMiss 10000" x="3497" y="481" width="567" height="461" frameX="0" frameY="-38" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10001" x="10" y="967" width="544" height="500" frameX="-28" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10002" x="10" y="967" width="544" height="500" frameX="-28" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10003" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10004" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10005" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10006" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10007" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10008" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10009" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10010" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10011" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10012" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10013" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10014" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10015" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10016" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10017" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10018" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10019" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10020" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10021" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10022" x="1120" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10023" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PLMiss 10024" x="564" y="967" width="546" height="500" frameX="-26" frameY="0" frameWidth="572" frameHeight="500"/>
+	<SubTexture name="PicoLeftNote 10000" x="1676" y="967" width="566" height="462" frameX="0" frameY="-2" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10001" x="1676" y="967" width="566" height="462" frameX="0" frameY="-2" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10002" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10003" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10004" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10005" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10006" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10007" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10008" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10009" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10010" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10011" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10012" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10013" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10014" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10015" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PicoLeftNote 10016" x="2252" y="967" width="562" height="464" frameX="-4" frameY="0" frameWidth="566" frameHeight="464"/>
+	<SubTexture name="PRMiss 10000" x="2824" y="967" width="602" height="474" frameX="-1" frameY="-47" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10001" x="3436" y="967" width="601" height="522" frameX="0" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10002" x="3436" y="967" width="601" height="522" frameX="0" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10003" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10004" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10005" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10006" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10007" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10008" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10009" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10010" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10011" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10012" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10013" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10014" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10015" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10016" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10017" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10018" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10019" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10020" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10021" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10022" x="621" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10023" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PRMiss 10024" x="10" y="1499" width="601" height="522" frameX="-3" frameY="0" frameWidth="604" frameHeight="522"/>
+	<SubTexture name="PicoRightNote 10000" x="1232" y="1499" width="602" height="476" frameX="-3" frameY="0" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10001" x="1232" y="1499" width="602" height="476" frameX="-3" frameY="0" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10002" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10003" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10004" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10005" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10006" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10007" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10008" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10009" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10010" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10011" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10012" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10013" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10014" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10015" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoRightNote 10016" x="1844" y="1499" width="587" height="473" frameX="0" frameY="-3" frameWidth="605" frameHeight="476"/>
+	<SubTexture name="PicoShoot 10000" x="2441" y="1499" width="728" height="471" frameX="-48" frameY="-50" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10001" x="3179" y="1499" width="735" height="508" frameX="-31" frameY="-13" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10002" x="3179" y="1499" width="735" height="508" frameX="-31" frameY="-13" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10003" x="10" y="2031" width="749" height="521" frameX="-9" frameY="0" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10004" x="10" y="2031" width="749" height="521" frameX="-9" frameY="0" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10005" x="769" y="2031" width="758" height="454" frameX="0" frameY="-67" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10006" x="769" y="2031" width="758" height="454" frameX="0" frameY="-67" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10007" x="1537" y="2031" width="607" height="454" frameX="-151" frameY="-67" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10008" x="1537" y="2031" width="607" height="454" frameX="-151" frameY="-67" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10009" x="1537" y="2031" width="607" height="454" frameX="-151" frameY="-67" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="PicoShoot 10010" x="1537" y="2031" width="607" height="454" frameX="-151" frameY="-67" frameWidth="776" frameHeight="521"/>
+	<SubTexture name="fallin instancia 10000" x="2154" y="2031" width="560" height="534" frameX="0" frameY="0" frameWidth="951" frameHeight="1039"/>
+	<SubTexture name="fallin instancia 10001" x="2724" y="2031" width="590" height="528" frameX="-66" frameY="-159" frameWidth="951" frameHeight="1039"/>
+	<SubTexture name="fallin instancia 10002" x="3324" y="2031" width="435" height="591" frameX="-387" frameY="-307" frameWidth="951" frameHeight="1039"/>
+	<SubTexture name="fallin instancia 10003" x="10" y="2632" width="561" height="420" frameX="-390" frameY="-619" frameWidth="951" frameHeight="1039"/>
+	<SubTexture name="PUMiss 10000" x="581" y="2632" width="549" height="495" frameX="0" frameY="-34" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10001" x="1140" y="2632" width="556" height="526" frameX="-5" frameY="-4" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10002" x="1140" y="2632" width="556" height="526" frameX="-5" frameY="-4" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10003" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10004" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10005" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10006" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10007" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10008" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10009" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10010" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10011" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10012" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10013" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10014" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10015" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10016" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10017" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10018" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10019" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10020" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10021" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10022" x="2264" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10023" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PUMiss 10024" x="1706" y="2632" width="548" height="530" frameX="-10" frameY="0" frameWidth="561" frameHeight="530"/>
+	<SubTexture name="PicoUpNote 10000" x="2822" y="2632" width="549" height="494" frameX="-6" frameY="0" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10001" x="2822" y="2632" width="549" height="494" frameX="-6" frameY="0" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10002" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10003" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10004" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10005" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10006" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10007" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10008" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10009" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10010" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10011" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10012" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+	<SubTexture name="PicoUpNote 10013" x="3381" y="2632" width="557" height="489" frameX="0" frameY="-5" frameWidth="557" frameHeight="494"/>
+</TextureAtlas>
