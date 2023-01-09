@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf pico icons.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heart  Pico and bf instancia 10000" x="0" y="0" width="380" height="312" frameX="0" frameY="-15" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10001" x="0" y="0" width="380" height="312" frameX="0" frameY="-15" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10002" x="0" y="0" width="380" height="312" frameX="0" frameY="-15" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10003" x="380" y="0" width="370" height="310" frameX="0" frameY="-17" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10004" x="380" y="0" width="370" height="310" frameX="0" frameY="-17" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10005" x="750" y="0" width="360" height="310" frameX="0" frameY="-17" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10006" x="750" y="0" width="360" height="310" frameX="0" frameY="-17" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10007" x="1110" y="0" width="353" height="310" frameX="0" frameY="-17" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10008" x="1110" y="0" width="353" height="310" frameX="0" frameY="-17" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10009" x="1463" y="0" width="398" height="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10010" x="1463" y="0" width="398" height="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10011" x="0" y="327" width="387" height="315" frameX="0" frameY="-12" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf instancia 10012" x="0" y="327" width="387" height="315" frameX="0" frameY="-12" frameWidth="398" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10000" x="387" y="327" width="342" height="312" frameX="0" frameY="-15" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10001" x="387" y="327" width="342" height="312" frameX="0" frameY="-15" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10002" x="387" y="327" width="342" height="312" frameX="0" frameY="-15" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10003" x="729" y="327" width="337" height="310" frameX="0" frameY="-17" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10004" x="729" y="327" width="337" height="310" frameX="0" frameY="-17" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10005" x="1066" y="327" width="331" height="310" frameX="0" frameY="-17" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10006" x="1066" y="327" width="331" height="310" frameX="0" frameY="-17" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10007" x="1397" y="327" width="321" height="310" frameX="0" frameY="-17" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10008" x="1397" y="327" width="321" height="310" frameX="0" frameY="-17" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10009" x="0" y="642" width="365" height="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10010" x="0" y="642" width="365" height="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10011" x="365" y="642" width="358" height="315" frameX="0" frameY="-12" frameWidth="365" frameHeight="327"/>
+	<SubTexture name="Heart  Pico and bf loose  instancia 10012" x="365" y="642" width="358" height="315" frameX="0" frameY="-12" frameWidth="365" frameHeight="327"/>
+</TextureAtlas>

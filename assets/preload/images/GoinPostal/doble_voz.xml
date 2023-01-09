@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="two voice lines.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hi there  instancia 10000" x="10" y="10" width="539" height="743" frameX="-165" frameY="-3" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10001" x="10" y="10" width="539" height="743" frameX="-165" frameY="-3" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10002" x="559" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10003" x="559" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10004" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10005" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10006" x="1657" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10007" x="1657" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10008" x="2206" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10009" x="2206" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10010" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10011" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10012" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10013" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10014" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10015" x="2755" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10016" x="2755" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10017" x="3304" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10018" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10019" x="1108" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10020" x="3304" y="10" width="539" height="746" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10021" x="3853" y="10" width="539" height="912" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10022" x="4402" y="10" width="539" height="838" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10023" x="4951" y="10" width="539" height="838" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10024" x="5500" y="10" width="539" height="830" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10025" x="6049" y="10" width="539" height="830" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10026" x="6598" y="10" width="539" height="830" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10027" x="7147" y="10" width="554" height="828" frameX="-150" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10028" x="7147" y="10" width="554" height="828" frameX="-150" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10029" x="10" y="932" width="655" height="830" frameX="-49" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10030" x="10" y="932" width="655" height="830" frameX="-49" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10031" x="675" y="932" width="678" height="827" frameX="-26" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10032" x="675" y="932" width="678" height="827" frameX="-26" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10033" x="1363" y="932" width="704" height="828" frameX="0" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10034" x="2077" y="932" width="704" height="828" frameX="0" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10035" x="2791" y="932" width="688" height="832" frameX="-16" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10036" x="3489" y="932" width="688" height="832" frameX="-16" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10037" x="4187" y="932" width="539" height="826" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10038" x="4736" y="932" width="539" height="826" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10039" x="5285" y="932" width="539" height="827" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10040" x="5834" y="932" width="539" height="827" frameX="-165" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10041" x="6383" y="932" width="538" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10042" x="6383" y="932" width="538" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10043" x="6931" y="932" width="562" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10044" x="7503" y="932" width="562" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10045" x="10" y="1774" width="547" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10046" x="567" y="1774" width="547" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10047" x="1124" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10048" x="1679" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10049" x="1679" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10050" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10051" x="1124" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10052" x="1124" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10053" x="1679" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10054" x="1679" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10055" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10056" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10057" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10058" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10059" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10060" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Hi there  instancia 10061" x="2234" y="1774" width="545" height="827" frameX="-159" frameY="0" frameWidth="721" frameHeight="912"/>
+	<SubTexture name="Signi it dammit  instancia 10000" x="2789" y="1774" width="539" height="742" frameX="0" frameY="-12" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10001" x="2789" y="1774" width="539" height="742" frameX="0" frameY="-12" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10002" x="3338" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10003" x="3338" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10004" x="3887" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10005" x="4436" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10006" x="4985" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10007" x="5534" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10008" x="5534" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10009" x="3887" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10010" x="4985" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10011" x="6083" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10012" x="6083" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10013" x="4436" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10014" x="6083" y="1774" width="539" height="754" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10015" x="6632" y="1774" width="600" height="829"/>
+	<SubTexture name="Signi it dammit  instancia 10016" x="7242" y="1774" width="600" height="829"/>
+	<SubTexture name="Signi it dammit  instancia 10017" x="10" y="2613" width="572" height="779" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10018" x="592" y="2613" width="572" height="779" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10019" x="1174" y="2613" width="550" height="757" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10020" x="1734" y="2613" width="550" height="757" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10021" x="2294" y="2613" width="539" height="755" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10022" x="2294" y="2613" width="539" height="755" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10023" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10024" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10025" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10026" x="3389" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10027" x="3389" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10028" x="3935" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10029" x="4481" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10030" x="4481" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10031" x="5027" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10032" x="5573" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10033" x="6119" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10034" x="6119" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10035" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10036" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10037" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+	<SubTexture name="Signi it dammit  instancia 10038" x="2843" y="2613" width="536" height="752" frameX="0" frameY="0" frameWidth="600" frameHeight="829"/>
+</TextureAtlas>

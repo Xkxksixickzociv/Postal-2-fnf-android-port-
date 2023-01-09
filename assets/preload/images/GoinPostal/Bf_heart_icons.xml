@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bf heart icons.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heart  Bf instancia 10000" x="0" y="0" width="309" height="312" frameX="0" frameY="-14" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10001" x="0" y="0" width="309" height="312" frameX="0" frameY="-14" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10002" x="0" y="0" width="309" height="312" frameX="0" frameY="-14" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10003" x="309" y="0" width="301" height="310" frameX="0" frameY="-16" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10004" x="309" y="0" width="301" height="310" frameX="0" frameY="-16" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10005" x="610" y="0" width="294" height="310" frameX="0" frameY="-16" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10006" x="610" y="0" width="294" height="310" frameX="0" frameY="-16" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10007" x="904" y="0" width="289" height="310" frameX="0" frameY="-16" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10008" x="904" y="0" width="289" height="310" frameX="0" frameY="-16" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10009" x="1193" y="0" width="318" height="326"/>
+	<SubTexture name="Heart  Bf instancia 10010" x="1193" y="0" width="318" height="326"/>
+	<SubTexture name="Heart  Bf instancia 10011" x="1511" y="0" width="313" height="314" frameX="0" frameY="-12" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf instancia 10012" x="1511" y="0" width="313" height="314" frameX="0" frameY="-12" frameWidth="318" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10000" x="0" y="326" width="269" height="312" frameX="0" frameY="-14" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10001" x="0" y="326" width="269" height="312" frameX="0" frameY="-14" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10002" x="0" y="326" width="269" height="312" frameX="0" frameY="-14" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10003" x="269" y="326" width="266" height="310" frameX="0" frameY="-16" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10004" x="269" y="326" width="266" height="310" frameX="0" frameY="-16" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10005" x="535" y="326" width="263" height="310" frameX="0" frameY="-16" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10006" x="535" y="326" width="263" height="310" frameX="0" frameY="-16" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10007" x="798" y="326" width="258" height="310" frameX="0" frameY="-16" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10008" x="798" y="326" width="258" height="310" frameX="0" frameY="-16" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10009" x="1056" y="326" width="280" height="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10010" x="1056" y="326" width="280" height="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10011" x="1336" y="326" width="276" height="315" frameX="0" frameY="-11" frameWidth="280" frameHeight="326"/>
+	<SubTexture name="Heart  Bf loose instancia 10012" x="1336" y="326" width="276" height="315" frameX="0" frameY="-11" frameWidth="280" frameHeight="326"/>
+</TextureAtlas>

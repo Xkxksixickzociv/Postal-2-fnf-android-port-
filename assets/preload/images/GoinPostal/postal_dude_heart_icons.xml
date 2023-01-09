@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="postal dude heart icons.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heart  Dude instancia 10000" x="0" y="0" width="286" height="312" frameX="0" frameY="-15" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10001" x="0" y="0" width="286" height="312" frameX="0" frameY="-15" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10002" x="0" y="0" width="286" height="312" frameX="0" frameY="-15" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10003" x="286" y="0" width="282" height="310" frameX="0" frameY="-17" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10004" x="286" y="0" width="282" height="310" frameX="0" frameY="-17" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10005" x="568" y="0" width="275" height="310" frameX="0" frameY="-17" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10006" x="568" y="0" width="275" height="310" frameX="0" frameY="-17" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10007" x="843" y="0" width="271" height="310" frameX="0" frameY="-17" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10008" x="843" y="0" width="271" height="310" frameX="0" frameY="-17" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10009" x="1114" y="0" width="301" height="327"/>
+	<SubTexture name="Heart  Dude instancia 10010" x="1114" y="0" width="301" height="327"/>
+	<SubTexture name="Heart  Dude instancia 10011" x="1415" y="0" width="291" height="315" frameX="0" frameY="-12" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude instancia 10012" x="1415" y="0" width="291" height="315" frameX="0" frameY="-12" frameWidth="301" frameHeight="327"/>
+	<SubTexture name="Heart  Dude loose instancia 10000" x="1706" y="0" width="273" height="312" frameX="0" frameY="-14" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10001" x="1706" y="0" width="273" height="312" frameX="0" frameY="-14" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10002" x="1706" y="0" width="273" height="312" frameX="0" frameY="-14" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10003" x="0" y="327" width="270" height="310" frameX="0" frameY="-16" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10004" x="0" y="327" width="270" height="310" frameX="0" frameY="-16" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10005" x="270" y="327" width="265" height="310" frameX="0" frameY="-16" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10006" x="270" y="327" width="265" height="310" frameX="0" frameY="-16" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10007" x="535" y="327" width="260" height="310" frameX="0" frameY="-16" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10008" x="535" y="327" width="260" height="310" frameX="0" frameY="-16" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10009" x="795" y="327" width="287" height="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10010" x="795" y="327" width="287" height="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10011" x="1082" y="327" width="282" height="314" frameX="0" frameY="-12" frameWidth="287" frameHeight="326"/>
+	<SubTexture name="Heart  Dude loose instancia 10012" x="1082" y="327" width="282" height="314" frameX="0" frameY="-12" frameWidth="287" frameHeight="326"/>
+</TextureAtlas>

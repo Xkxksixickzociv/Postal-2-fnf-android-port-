@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cat rain.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cat instancia 10000" x="0" y="0" width="195" height="596" frameX="-3" frameY="-25" frameWidth="218" frameHeight="640"/>
+	<SubTexture name="Cat instancia 10001" x="195" y="0" width="193" height="626" frameX="0" frameY="-8" frameWidth="218" frameHeight="640"/>
+	<SubTexture name="Cat instancia 10002" x="195" y="0" width="193" height="626" frameX="0" frameY="-8" frameWidth="218" frameHeight="640"/>
+	<SubTexture name="Cat instancia 10003" x="388" y="0" width="195" height="640" frameX="-19" frameY="0" frameWidth="218" frameHeight="640"/>
+	<SubTexture name="Cat instancia 10004" x="388" y="0" width="195" height="640" frameX="-19" frameY="0" frameWidth="218" frameHeight="640"/>
+	<SubTexture name="Cat instancia 10005" x="583" y="0" width="208" height="625" frameX="-10" frameY="-1" frameWidth="218" frameHeight="640"/>
+	<SubTexture name="Cat splash  instancia 10000" x="791" y="0" width="385" height="269" frameX="-24" frameY="-124" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10001" x="1176" y="0" width="412" height="295" frameX="-15" frameY="-90" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10002" x="1176" y="0" width="412" height="295" frameX="-15" frameY="-90" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10003" x="1588" y="0" width="442" height="342" frameX="-3" frameY="-43" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10004" x="1588" y="0" width="442" height="342" frameX="-3" frameY="-43" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10005" x="0" y="640" width="480" height="365" frameX="0" frameY="-20" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10006" x="0" y="640" width="480" height="365" frameX="0" frameY="-20" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10007" x="480" y="640" width="484" height="373" frameX="-3" frameY="-3" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10008" x="480" y="640" width="484" height="373" frameX="-3" frameY="-3" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10009" x="964" y="640" width="346" height="375" frameX="-4" frameY="0" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10010" x="1310" y="640" width="0" height="0" frameX="852" frameY="69" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10011" x="1310" y="640" width="0" height="0" frameX="852" frameY="69" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10012" x="1310" y="640" width="0" height="0" frameX="852" frameY="69" frameWidth="487" frameHeight="393"/>
+	<SubTexture name="Cat splash  instancia 10013" x="1310" y="640" width="0" height="0" frameX="852" frameY="69" frameWidth="487" frameHeight="393"/>
+</TextureAtlas>

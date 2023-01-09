@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heart.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heart  instancia 10000" x="0" y="0" width="194" height="312" frameX="0" frameY="-15" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10001" x="0" y="0" width="194" height="312" frameX="0" frameY="-15" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10002" x="0" y="0" width="194" height="312" frameX="0" frameY="-15" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10003" x="194" y="0" width="194" height="310" frameX="0" frameY="-17" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10004" x="194" y="0" width="194" height="310" frameX="0" frameY="-17" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10005" x="388" y="0" width="194" height="310" frameX="0" frameY="-17" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10006" x="388" y="0" width="194" height="310" frameX="0" frameY="-17" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10007" x="582" y="0" width="194" height="310" frameX="0" frameY="-17" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10008" x="582" y="0" width="194" height="310" frameX="0" frameY="-17" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10009" x="776" y="0" width="194" height="327"/>
+	<SubTexture name="Heart  instancia 10010" x="776" y="0" width="194" height="327"/>
+	<SubTexture name="Heart  instancia 10011" x="0" y="327" width="194" height="315" frameX="0" frameY="-12" frameWidth="194" frameHeight="327"/>
+	<SubTexture name="Heart  instancia 10012" x="0" y="327" width="194" height="315" frameX="0" frameY="-12" frameWidth="194" frameHeight="327"/>
+</TextureAtlas>

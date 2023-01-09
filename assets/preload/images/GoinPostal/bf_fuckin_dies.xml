@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf fuckin dies.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF deadbody instancia 10000" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10001" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10002" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10003" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10004" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10005" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10006" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF deadbody instancia 10007" x="0" y="0" width="558" height="367"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10000" x="558" y="0" width="430" height="426" frameX="-179" frameY="-27" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10001" x="988" y="0" width="419" height="442" frameX="-183" frameY="-11" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10002" x="1407" y="0" width="459" height="438" frameX="-171" frameY="-5" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10003" x="1866" y="0" width="459" height="438" frameX="-171" frameY="-5" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10004" x="2325" y="0" width="448" height="437" frameX="-167" frameY="-6" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10005" x="2773" y="0" width="448" height="437" frameX="-167" frameY="-6" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10006" x="3221" y="0" width="455" height="443" frameX="-163" frameY="0" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10007" x="0" y="443" width="455" height="443" frameX="-163" frameY="0" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10008" x="455" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10009" x="847" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10010" x="1239" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10011" x="1631" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10012" x="2023" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10013" x="2415" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10014" x="2807" y="443" width="392" height="393" frameX="-226" frameY="-50" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10015" x="3199" y="443" width="368" height="395" frameX="-222" frameY="-48" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10016" x="3567" y="443" width="368" height="395" frameX="-222" frameY="-48" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10017" x="0" y="886" width="372" height="392" frameX="-202" frameY="-51" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10018" x="372" y="886" width="372" height="392" frameX="-202" frameY="-51" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10019" x="744" y="886" width="415" height="371" frameX="-156" frameY="-70" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10020" x="1159" y="886" width="415" height="371" frameX="-156" frameY="-70" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10021" x="1574" y="886" width="572" height="345" frameX="0" frameY="-261" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10022" x="1574" y="886" width="572" height="345" frameX="0" frameY="-261" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10023" x="2146" y="886" width="562" height="365" frameX="-5" frameY="-253" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10024" x="2146" y="886" width="562" height="365" frameX="-5" frameY="-253" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10025" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10026" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10027" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10028" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10029" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10030" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10031" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+	<SubTexture name="BF hit and f*ckin dies instancia 10032" x="2708" y="886" width="558" height="368" frameX="-8" frameY="-250" frameWidth="630" frameHeight="618"/>
+</TextureAtlas>
