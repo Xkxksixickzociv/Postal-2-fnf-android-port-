@@ -8,40 +8,40 @@
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "Game over Bf",
+			"name": "Game over Pico",
 			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				38,
+				20
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "PicoRetry",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				38,
 				9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "Game over Bf"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				19
-			],
-			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BfDeadinstancia",
+			"name": "Game over Pico",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Game_Over",
 	"position": [
-		-320,
+		380,
 		20
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,

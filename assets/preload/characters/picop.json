@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				92,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LMiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				43
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				524,
+				518
+			],
+			"anim": "fall",
+			"fps": 20,
+			"name": "Pico fall",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "invidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-69
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Pico Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				1
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-11
+			],
+			"anim": "ohshit",
+			"fps": 24,
+			"name": "No ammo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				27,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UMiss"
+		},
+		{
+			"offsets": [
+				90,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_full",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

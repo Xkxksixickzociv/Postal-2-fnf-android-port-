@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Postal dude idle instancia",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-126,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Postal dude up instancia"
+		},
+		{
+			"offsets": [
+				4,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Postal dude right instancia"
+		},
+		{
+			"offsets": [
+				-14,
+				216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Postal dude Left  instancia"
+		},
+		{
+			"offsets": [
+				7,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Postal dude down  instancia"
+		},
+		{
+			"offsets": [
+				-115,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Postal dude Shoot  instancia 1"
+		},
+		{
+			"offsets": [
+				-120,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootout",
+			"indices": [],
+			"name": "Postal dude Shoot  no ammo"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				124
+			],
+			"anim": "protect",
+			"fps": 24,
+			"name": "Postal dude Bullet Protect",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-106,
+				-5
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "protectbfver",
+			"loop": false,
+			"name": "Postal dude protect  from bf instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/postal_dude",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dude",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		41,
+		41
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
